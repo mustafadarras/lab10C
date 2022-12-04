@@ -9,7 +9,7 @@ function App() {
       </head>
       <header className="App-header">
       <div>
-      <h2>How I installed React On My Computer</h2>
+      <h1>How I installed React On My Computer</h1>
         <p>
         First, I went to "www.nodejs.org". After going into the webiste,
         I downloaded a 64 bit version of the "Node js" to my computer.
@@ -25,7 +25,7 @@ function App() {
         </div>
 
         <div>
-        <h2>How I Hosted My webpage on GitHub</h2>
+        <h1>How I Hosted My webpage on GitHub</h1>
         <p>1. Installed git on my computer.</p>
         <p>2. Created a new github account.</p>
         <p>3. Created a new repository and called it "lab10c".</p>
@@ -35,7 +35,7 @@ function App() {
         <p>7. I committed my source code to the master branch and pushed it to use it later.</p>
         </div>
         <div>
-        <h2>Difficulties Encountered</h2>
+        <h1>Difficulties Encountered</h1>
         <p>
         I had difficulties with installing react on my computer, once I have installed git, I was a bit lost on how to start actually coding in it.
         </p>
