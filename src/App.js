@@ -34,7 +34,7 @@ function App() {
         <p>6. As a result my application was hosted onto my gh-pages, and I was able to access it by going to my repository's setting on github and click on the pages tab which includes a link to my webpage.</p>
         <p>7. I committed my source code to the master branch and pushed it to use it later.</p>
         </div>
-
+        <div>
         <h2>Difficulties Encountered</h2>
         <p>
         I had difficulties with installing react on my computer, once I have installed git, I was a bit lost on how to start actually coding in it.
