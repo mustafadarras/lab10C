@@ -1,7 +1,3 @@
 body{ background-image: url('https://images4.alphacoders.com/378/37864.jpg'); 
-  background-size: cover; } 
+  background-size: cover; color:rgb(255, 255, 255);} 
 
-p{font-size: 15px; font-family: "Times New Roman"; color:rgb(255, 255, 255);}
-h1{color:rgb(255, 255, 255); text-align:center;   font-weight: bold; 
-  font-family: "Times New Roman", Times, serif;
-}
