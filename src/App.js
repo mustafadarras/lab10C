@@ -7,8 +7,8 @@ function App() {
       <head>
         <title>LAB10C By Mustafa Darras</title>
       </head>
-      <header className="App-header">
-      
+      <header className="App-header"></header>
+      <body>
       <h1>How I installed React On My Computer</h1>
         <p>
         First, I went to "www.nodejs.org". After going into the webiste,
@@ -45,8 +45,8 @@ function App() {
         
        
         
-        
-      </header>
+        </body>
+      
     </div>
   );
 }
