@@ -8,7 +8,7 @@ function App() {
         <title>LAB10C</title>
       </head>
       <header className="App-header">
-      <div>
+      
       <h1>How I installed React On My Computer</h1>
         <p>
         First, I went to "www.nodejs.org". After going into the webiste,
@@ -22,9 +22,9 @@ function App() {
         then I went to my reactjs folder using the cd command and then I executed the command
         "npm start". Finally, I was able to change and design my Lab10C website.
         </p>
-        </div>
+        
 
-        <div>
+        
         <h1>How I Hosted My webpage on GitHub</h1>
         <p>1. Installed git on my computer.</p>
         <p>2. Created a new github account.</p>
@@ -33,8 +33,8 @@ function App() {
         <p>5. Generated a production build of my application and deployed it to github pages using the command "npm run deploy".</p>
         <p>6. As a result my application was hosted onto my gh-pages, and I was able to access it by going to my repository's setting on github and click on the pages tab which includes a link to my webpage.</p>
         <p>7. I committed my source code to the master branch and pushed it to use it later.</p>
-        </div>
-        <div>
+       
+        
         <h1>Difficulties Encountered</h1>
         <p>
         I had difficulties with installing react on my computer, once I have installed git, I was a bit lost on how to start actually coding in it.
@@ -42,7 +42,7 @@ function App() {
         <p>The hardest part was uploading my webpage to github, it took me almost 5 hours to figure out how github works (I have never used github before starting this lab).
           However, after watching numerous youtube tutorials on how to upload my webpage to github, I figured it out. 
         </p>
-        </div>
+        
        
         
         
