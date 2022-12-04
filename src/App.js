@@ -9,9 +9,10 @@ function App() {
       </head>
       <header className="App-header"></header>
       <body>
-      <h1>How I installed React On My Computer</h1>
-        <p>
-        First, I went to "www.nodejs.org". After going into the webiste,
+      <p>
+        How I installed React On My Computer
+        </p>
+        <p>First, I went to "www.nodejs.org". After going into the webiste,
         I downloaded a 64 bit version of the "Node js" to my computer.
         I then installed it on my computer, then created a folder on my 
         C drive that is called "react". 
@@ -25,7 +26,7 @@ function App() {
         
 
         
-        <h1>How I Hosted My webpage on GitHub</h1>
+        <p>How I Hosted My webpage on GitHub</p>
         <p>1. Installed git on my computer.</p>
         <p>2. Created a new github account.</p>
         <p>3. Created a new repository and called it "lab10c".</p>
@@ -35,7 +36,7 @@ function App() {
         <p>7. I committed my source code to the master branch and pushed it to use it later.</p>
        
         
-        <h1>Difficulties Encountered</h1>
+        <p>Difficulties Encountered with this lab</p>
         <p>
         I had difficulties with installing react on my computer, once I have installed git, I was a bit lost on how to start actually coding in it.
         </p>
